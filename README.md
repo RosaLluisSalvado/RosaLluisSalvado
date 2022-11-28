@@ -4,6 +4,6 @@
 🌱 I’m currently learning DAX and Python in [DataCamp](https://www.datacamp.com) within the Data Analyst certification. <br />
 👩‍💼 I have experience in Consulting in process automation and data management with SQL.
 
-How to reach me:
-- 📫 rosalluissalvado@gmail.com
-- 🌎 [LinkedIn](https://www.linkedin.com/in/rosalluissalvado/)
+How to reach me: <br />
+📫 rosalluissalvado@gmail.com <br />
+🌎 [LinkedIn](https://www.linkedin.com/in/rosalluissalvado/)
