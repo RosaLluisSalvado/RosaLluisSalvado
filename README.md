@@ -1,4 +1,4 @@
-✨Hi there✨, I’m Rosa and I'm an aspiring Data Analyst 👋👩‍💻 <br />
+✨Hi there✨, I’m Rosa and I'm an aspiring Data Analyst 👋👩‍💻
 - 🏫 Master's graduated in BigData & Analytics
 - 👀 I’m currently searching for Business Intelligence positions based in Canada.
 - 🌱 I’m currently learning DAX and Python in [DataCamp](https://www.datacamp.com) within the Data Analyst certification.
