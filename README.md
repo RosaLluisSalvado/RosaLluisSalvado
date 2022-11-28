@@ -8,4 +8,5 @@ How to reach me:
 - 📫 rosalluissalvado@gmail.com
 - 🌎[LinkedIn](https://www.linkedin.com/in/rosalluissalvado/)
 
-https://img.shields.io/badge/-SQL-green
+![Tableau]({[https://img.shields.io/badge/-SQL-green](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)})
+
