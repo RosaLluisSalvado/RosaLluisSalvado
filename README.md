@@ -7,3 +7,5 @@
 How to reach me:
 - 📫 rosalluissalvado@gmail.com
 - 🌎[LinkedIn](https://www.linkedin.com/in/rosalluissalvado/)
+
+https://img.shields.io/badge/-SQL-green
