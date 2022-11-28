@@ -6,4 +6,4 @@
 
 How to reach me:
 - 📫 rosalluissalvado@gmail.com
-- 🌎[LinkedIn](https://www.linkedin.com/in/rosalluissalvado/)
+- 🌎 [LinkedIn](https://www.linkedin.com/in/rosalluissalvado/)
